@@ -4,9 +4,9 @@ Agora que você já afiou o seu conhecimento sobre criação de imagens Docker, 
 
 - link da aplicação: <https://github.com/KubeDev/rotten-potatoes>
 
-## Respostas - Questão 04
+## Resolução
 
-## Docker Compose da aplicação rotten-potatoes.
+## Docker Compose da aplicação rotten-potatoes
 
 docker-compose.yaml
 
